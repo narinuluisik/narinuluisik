@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/narin uluışık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narin uluışık" height="30" width="40" /></a>
-<a href="https://instagram.com/uluisiknarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uluisiknarin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/narin-ulu%C4%B1%C5%9F%C4%B1k-aa7758246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narin uluışık" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narinuluisik&show_icons=true&title_color=000000&locale=en" alt="narinuluisik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narinuluisik&" alt="narinuluisik" /></p>
+

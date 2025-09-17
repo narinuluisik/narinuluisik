@@ -34,9 +34,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narinuluisik&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narinuluisik&layout=compact&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=narinuluisik&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narinuluisik&layout=compact&theme=radical" width="35%" />
 </p>
-
-
-

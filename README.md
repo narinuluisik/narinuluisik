@@ -1,17 +1,44 @@
-<h1 align="center">Hi 👋, I'm Narin Uluışık</h1>
-<h3 align="center">Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği öğrencisiyim</h3>
-
-- 📫 How to reach me **narinuluisik7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/narin-ulu%C4%B1%C5%9F%C4%B1k-aa7758246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narin uluışık" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+ <img alt="banner" width="400" src="https://github.com/user-attachments/assets/17bd4a4b-8f45-4142-b4a0-fa88e6fb5a6c" />
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+# 👩‍💻 Narin Uluışık  
+**Computer Engineer | Full-Stack Developer**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narinuluisik&show_icons=true&title_color=000000&locale=en" alt="narinuluisik" /></p>
+🎓 Dumlupınar Üniversitesi Bilgisayar Mühendisliği  
+💻 Laravel | PHP | Vue.js | Flutter | ASP.NET Core | Firebase  
+💼 [LinkedIn](https://linkedin.com/in/narin-uluışık)  
+📧 **narinuluisik7@gmail.com**
+
+
+---
+
+## 🛠️ Tech Stack  
+
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narinuluisik&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narinuluisik&layout=compact&theme=tokyonight" width="450"/>
+</p>
+
+---
+
 
 
